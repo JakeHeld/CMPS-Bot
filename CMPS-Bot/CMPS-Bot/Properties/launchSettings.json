@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CMPS-Bot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DiscordToken": "<ENTER TOKEN VALUE HERE>"
+      }
+    }
+  }
+}
