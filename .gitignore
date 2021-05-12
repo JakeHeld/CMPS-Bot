@@ -586,3 +586,4 @@ FodyWeavers.xsd
 *.tlog
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,jetbrains,rider,visualstudio,visualstudiocode
+CMPS-Bot/.idea
